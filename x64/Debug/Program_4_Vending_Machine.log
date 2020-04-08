@@ -1,0 +1,3 @@
+﻿  Program_4_Vending_Machine.cpp
+C:\Users\Christina\Source\Repos\Program_4_Vending_Machine_Gerstner\Program_4_Vending_Machine.cpp(44): warning C4715:  'get_price': not all control paths return a value
+  Program_4_Vending_Machine.vcxproj -> C:\Users\Christina\Source\Repos\Program_4_Vending_Machine_Gerstner\x64\Debug\Program_4_Vending_Machine.exe
